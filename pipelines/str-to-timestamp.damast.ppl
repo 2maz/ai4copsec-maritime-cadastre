@@ -1,0 +1,13 @@
+description: Convert column from str to timestamp
+meta:
+  damast_version: 0.1.9
+name: str-to-timestamp
+steps:
+- - Change column type
+  - class_name: ChangeTypeColumn
+    module_name: damast.data_handling.transformers.augmenters
+    name_mappings:
+      x: BaseDateTime
+      y: timestamp
+    parameters:
+      new_type: !!python/name:polars.datatypes.classes.Datetime ''

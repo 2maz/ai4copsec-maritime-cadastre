@@ -1,0 +1,1248 @@
+0:
+  classification: Not available or no ship  default
+  vessel_group: Not Available
+1: &id001
+  classification: ''
+  vessel_group: Other
+2: *id001
+3: *id001
+4: *id001
+5: *id001
+6: *id001
+7: *id001
+8: *id001
+9: *id001
+10: *id001
+11: *id001
+12: *id001
+13: *id001
+14: *id001
+15: *id001
+16: *id001
+17: *id001
+18: *id001
+19: *id001
+20:
+  classification: Wing in ground (WIG)  all ships of this type
+  vessel_group: Other
+21:
+  classification: ' hazardous category A'
+  vessel_group: Tug Tow
+22:
+  classification: ' hazardous category B'
+  vessel_group: Tug Tow
+23:
+  classification: Wing in ground (WIG)  hazardous category C
+  vessel_group: Other
+24:
+  classification: Wing in ground (WIG)  hazardous category D
+  vessel_group: Other
+25:
+  classification: Wing in ground (WIG)  reserved for future use
+  vessel_group: Other
+26:
+  classification: Wing in ground (WIG)  reserved for future use
+  vessel_group: Other
+27:
+  classification: Wing in ground (WIG)  reserved for future use
+  vessel_group: Other
+28:
+  classification: Wing in ground (WIG)  reserved for future use
+  vessel_group: Other
+29:
+  classification: Wing in ground (WIG)  reserved for future use
+  vessel_group: Other
+30:
+  classification: Fishing
+  vessel_group: Fishing
+31:
+  classification: Towing
+  vessel_group: Tug Tow
+32:
+  classification: 'Towing: length exceeds 200m or breadth exceeds 25m'
+  vessel_group: Tug Tow
+33:
+  classification: Dredging or underwater operations
+  vessel_group: Other
+34:
+  classification: Diving operations
+  vessel_group: Other
+35:
+  classification: Military operations
+  vessel_group: Military
+36:
+  classification: Sailing
+  vessel_group: Pleasure Craft/Sailing
+37:
+  classification: Pleasure Craft
+  vessel_group: Pleasure Craft/Sailing
+38:
+  classification: Reserved
+  vessel_group: Other
+39:
+  classification: Reserved
+  vessel_group: Other
+40:
+  classification: High speed craft (HSC)  all ships of this type
+  vessel_group: Other
+41:
+  classification: High speed craft (HSC)  hazardous category A
+  vessel_group: Other
+42:
+  classification: High speed craft (HSC)  hazardous category B
+  vessel_group: Other
+43:
+  classification: High speed craft (HSC)  hazardous category C
+  vessel_group: Other
+44:
+  classification: High speed craft (HSC)  hazardous category D
+  vessel_group: Other
+45:
+  classification: High speed craft (HSC)  reserved for future use
+  vessel_group: Other
+46:
+  classification: High speed craft (HSC)  reserved for future use
+  vessel_group: Other
+47:
+  classification: High speed craft (HSC)  reserved for future use
+  vessel_group: Other
+48:
+  classification: High speed craft (HSC)  reserved for future use
+  vessel_group: Other
+49:
+  classification: High speed craft (HSC)  no additional information
+  vessel_group: Other
+50:
+  classification: Pilot Vessel
+  vessel_group: Other
+51:
+  classification: Search and Rescue vessel
+  vessel_group: Other
+52:
+  classification: Tug
+  vessel_group: Tug Tow
+53:
+  classification: Port Tender
+  vessel_group: Other
+54:
+  classification: Anti-pollution equipment
+  vessel_group: Other
+55:
+  classification: Law Enforcement
+  vessel_group: Other
+56:
+  classification: Spare - for assignment to local vessel
+  vessel_group: Other
+57:
+  classification: Spare - for assignment to local vessel
+  vessel_group: Other
+58:
+  classification: Medical Transport
+  vessel_group: Other
+59:
+  classification: Ship according to RR Resolution No. 18
+  vessel_group: Other
+60:
+  classification: Passenger  all ships of this type
+  vessel_group: Passenger
+61:
+  classification: Passenger  hazardous category A
+  vessel_group: Passenger
+62:
+  classification: Passenger  hazardous category B
+  vessel_group: Passenger
+63:
+  classification: Passenger  hazardous category C
+  vessel_group: Passenger
+64:
+  classification: Passenger  hazardous category D
+  vessel_group: Passenger
+65:
+  classification: Passenger  reserved for future use
+  vessel_group: Passenger
+66:
+  classification: Passenger  reserved for future use
+  vessel_group: Passenger
+67:
+  classification: Passenger  reserved for future use
+  vessel_group: Passenger
+68:
+  classification: Passenger  reserved for future use
+  vessel_group: Passenger
+69:
+  classification: Passenger  no additional information
+  vessel_group: Passenger
+70:
+  classification: Cargo  all ships of this type
+  vessel_group: Cargo
+71:
+  classification: Cargo  hazardous category A
+  vessel_group: Cargo
+72:
+  classification: Cargo  hazardous category B
+  vessel_group: Cargo
+73:
+  classification: Cargo  hazardous category C
+  vessel_group: Cargo
+74:
+  classification: Cargo  hazardous category D
+  vessel_group: Cargo
+75:
+  classification: Cargo  reserved for future use
+  vessel_group: Cargo
+76:
+  classification: Cargo  reserved for future use
+  vessel_group: Cargo
+77:
+  classification: Cargo  reserved for future use
+  vessel_group: Cargo
+78:
+  classification: Cargo  reserved for future use
+  vessel_group: Cargo
+79:
+  classification: Cargo  no additional information
+  vessel_group: Cargo
+80:
+  classification: Tanker  all ships of this type
+  vessel_group: Tanker
+81:
+  classification: Tanker  hazardous category A
+  vessel_group: Tanker
+82:
+  classification: Tanker  hazardous category B
+  vessel_group: Tanker
+83:
+  classification: Tanker  hazardous category C
+  vessel_group: Tanker
+84:
+  classification: Tanker  hazardous category D
+  vessel_group: Tanker
+85:
+  classification: Tanker  reserved for future use
+  vessel_group: Tanker
+86:
+  classification: Tanker  reserved for future use
+  vessel_group: Tanker
+87:
+  classification: Tanker  reserved for future use
+  vessel_group: Tanker
+88:
+  classification: Tanker  reserved for future use
+  vessel_group: Tanker
+89:
+  classification: Tanker  no additional information
+  vessel_group: Tanker
+90:
+  classification: Other Type  all ships of this type
+  vessel_group: Other
+91:
+  classification: Other Type  hazardous category A
+  vessel_group: Other
+92:
+  classification: Other Type  hazardous category B
+  vessel_group: Other
+93:
+  classification: Other Type  hazardous category C
+  vessel_group: Other
+94:
+  classification: Other Type  hazardous category D
+  vessel_group: Other
+95:
+  classification: Other Type  reserved for future use
+  vessel_group: Other
+96:
+  classification: Other Type  reserved for future use
+  vessel_group: Other
+97:
+  classification: Other Type  reserved for future use
+  vessel_group: Other
+98:
+  classification: Other Type  reserved for future use
+  vessel_group: Other
+99:
+  classification: Other Type  no additional information
+  vessel_group: Other
+100: &id002
+  classification: Reserved for regional use
+  vessel_group: Other
+101: *id002
+102: *id002
+103: *id002
+104: *id002
+105: *id002
+106: *id002
+107: *id002
+108: *id002
+109: *id002
+110: *id002
+111: *id002
+112: *id002
+113: *id002
+114: *id002
+115: *id002
+116: *id002
+117: *id002
+118: *id002
+119: *id002
+120: *id002
+121: *id002
+122: *id002
+123: *id002
+124: *id002
+125: *id002
+126: *id002
+127: *id002
+128: *id002
+129: *id002
+130: *id002
+131: *id002
+132: *id002
+133: *id002
+134: *id002
+135: *id002
+136: *id002
+137: *id002
+138: *id002
+139: *id002
+140: *id002
+141: *id002
+142: *id002
+143: *id002
+144: *id002
+145: *id002
+146: *id002
+147: *id002
+148: *id002
+149: *id002
+150: *id002
+151: *id002
+152: *id002
+153: *id002
+154: *id002
+155: *id002
+156: *id002
+157: *id002
+158: *id002
+159: *id002
+160: *id002
+161: *id002
+162: *id002
+163: *id002
+164: *id002
+165: *id002
+166: *id002
+167: *id002
+168: *id002
+169: *id002
+170: *id002
+171: *id002
+172: *id002
+173: *id002
+174: *id002
+175: *id002
+176: *id002
+177: *id002
+178: *id002
+179: *id002
+180: *id002
+181: *id002
+182: *id002
+183: *id002
+184: *id002
+185: *id002
+186: *id002
+187: *id002
+188: *id002
+189: *id002
+190: *id002
+191: *id002
+192: *id002
+193: *id002
+194: *id002
+195: *id002
+196: *id002
+197: *id002
+198: *id002
+199: *id002
+200: &id003
+  classification: Reserved for future use
+  vessel_group: Other
+201: *id003
+202: *id003
+203: *id003
+204: *id003
+205: *id003
+206: *id003
+207: *id003
+208: *id003
+209: *id003
+210: *id003
+211: *id003
+212: *id003
+213: *id003
+214: *id003
+215: *id003
+216: *id003
+217: *id003
+218: *id003
+219: *id003
+220: *id003
+221: *id003
+222: *id003
+223: *id003
+224: *id003
+225: *id003
+226: *id003
+227: *id003
+228: *id003
+229: *id003
+230: *id003
+231: *id003
+232: *id003
+233: *id003
+234: *id003
+235: *id003
+236: *id003
+237: *id003
+238: *id003
+239: *id003
+240: *id003
+241: *id003
+242: *id003
+243: *id003
+244: *id003
+245: *id003
+246: *id003
+247: *id003
+248: *id003
+249: *id003
+250: *id003
+251: *id003
+252: *id003
+253: *id003
+254: *id003
+255: *id003
+256: &id004
+  classification: No designation
+  vessel_group: Other
+257: *id004
+258: *id004
+259: *id004
+260: *id004
+261: *id004
+262: *id004
+263: *id004
+264: *id004
+265: *id004
+266: *id004
+267: *id004
+268: *id004
+269: *id004
+270: *id004
+271: *id004
+272: *id004
+273: *id004
+274: *id004
+275: *id004
+276: *id004
+277: *id004
+278: *id004
+279: *id004
+280: *id004
+281: *id004
+282: *id004
+283: *id004
+284: *id004
+285: *id004
+286: *id004
+287: *id004
+288: *id004
+289: *id004
+290: *id004
+291: *id004
+292: *id004
+293: *id004
+294: *id004
+295: *id004
+296: *id004
+297: *id004
+298: *id004
+299: *id004
+300: *id004
+301: *id004
+302: *id004
+303: *id004
+304: *id004
+305: *id004
+306: *id004
+307: *id004
+308: *id004
+309: *id004
+310: *id004
+311: *id004
+312: *id004
+313: *id004
+314: *id004
+315: *id004
+316: *id004
+317: *id004
+318: *id004
+319: *id004
+320: *id004
+321: *id004
+322: *id004
+323: *id004
+324: *id004
+325: *id004
+326: *id004
+327: *id004
+328: *id004
+329: *id004
+330: *id004
+331: *id004
+332: *id004
+333: *id004
+334: *id004
+335: *id004
+336: *id004
+337: *id004
+338: *id004
+339: *id004
+340: *id004
+341: *id004
+342: *id004
+343: *id004
+344: *id004
+345: *id004
+346: *id004
+347: *id004
+348: *id004
+349: *id004
+350: *id004
+351: *id004
+352: *id004
+353: *id004
+354: *id004
+355: *id004
+356: *id004
+357: *id004
+358: *id004
+359: *id004
+360: *id004
+361: *id004
+362: *id004
+363: *id004
+364: *id004
+365: *id004
+366: *id004
+367: *id004
+368: *id004
+369: *id004
+370: *id004
+371: *id004
+372: *id004
+373: *id004
+374: *id004
+375: *id004
+376: *id004
+377: *id004
+378: *id004
+379: *id004
+380: *id004
+381: *id004
+382: *id004
+383: *id004
+384: *id004
+385: *id004
+386: *id004
+387: *id004
+388: *id004
+389: *id004
+390: *id004
+391: *id004
+392: *id004
+393: *id004
+394: *id004
+395: *id004
+396: *id004
+397: *id004
+398: *id004
+399: *id004
+400: *id004
+401: *id004
+402: *id004
+403: *id004
+404: *id004
+405: *id004
+406: *id004
+407: *id004
+408: *id004
+409: *id004
+410: *id004
+411: *id004
+412: *id004
+413: *id004
+414: *id004
+415: *id004
+416: *id004
+417: *id004
+418: *id004
+419: *id004
+420: *id004
+421: *id004
+422: *id004
+423: *id004
+424: *id004
+425: *id004
+426: *id004
+427: *id004
+428: *id004
+429: *id004
+430: *id004
+431: *id004
+432: *id004
+433: *id004
+434: *id004
+435: *id004
+436: *id004
+437: *id004
+438: *id004
+439: *id004
+440: *id004
+441: *id004
+442: *id004
+443: *id004
+444: *id004
+445: *id004
+446: *id004
+447: *id004
+448: *id004
+449: *id004
+450: *id004
+451: *id004
+452: *id004
+453: *id004
+454: *id004
+455: *id004
+456: *id004
+457: *id004
+458: *id004
+459: *id004
+460: *id004
+461: *id004
+462: *id004
+463: *id004
+464: *id004
+465: *id004
+466: *id004
+467: *id004
+468: *id004
+469: *id004
+470: *id004
+471: *id004
+472: *id004
+473: *id004
+474: *id004
+475: *id004
+476: *id004
+477: *id004
+478: *id004
+479: *id004
+480: *id004
+481: *id004
+482: *id004
+483: *id004
+484: *id004
+485: *id004
+486: *id004
+487: *id004
+488: *id004
+489: *id004
+490: *id004
+491: *id004
+492: *id004
+493: *id004
+494: *id004
+495: *id004
+496: *id004
+497: *id004
+498: *id004
+499: *id004
+500: *id004
+501: *id004
+502: *id004
+503: *id004
+504: *id004
+505: *id004
+506: *id004
+507: *id004
+508: *id004
+509: *id004
+510: *id004
+511: *id004
+512: *id004
+513: *id004
+514: *id004
+515: *id004
+516: *id004
+517: *id004
+518: *id004
+519: *id004
+520: *id004
+521: *id004
+522: *id004
+523: *id004
+524: *id004
+525: *id004
+526: *id004
+527: *id004
+528: *id004
+529: *id004
+530: *id004
+531: *id004
+532: *id004
+533: *id004
+534: *id004
+535: *id004
+536: *id004
+537: *id004
+538: *id004
+539: *id004
+540: *id004
+541: *id004
+542: *id004
+543: *id004
+544: *id004
+545: *id004
+546: *id004
+547: *id004
+548: *id004
+549: *id004
+550: *id004
+551: *id004
+552: *id004
+553: *id004
+554: *id004
+555: *id004
+556: *id004
+557: *id004
+558: *id004
+559: *id004
+560: *id004
+561: *id004
+562: *id004
+563: *id004
+564: *id004
+565: *id004
+566: *id004
+567: *id004
+568: *id004
+569: *id004
+570: *id004
+571: *id004
+572: *id004
+573: *id004
+574: *id004
+575: *id004
+576: *id004
+577: *id004
+578: *id004
+579: *id004
+580: *id004
+581: *id004
+582: *id004
+583: *id004
+584: *id004
+585: *id004
+586: *id004
+587: *id004
+588: *id004
+589: *id004
+590: *id004
+591: *id004
+592: *id004
+593: *id004
+594: *id004
+595: *id004
+596: *id004
+597: *id004
+598: *id004
+599: *id004
+600: *id004
+601: *id004
+602: *id004
+603: *id004
+604: *id004
+605: *id004
+606: *id004
+607: *id004
+608: *id004
+609: *id004
+610: *id004
+611: *id004
+612: *id004
+613: *id004
+614: *id004
+615: *id004
+616: *id004
+617: *id004
+618: *id004
+619: *id004
+620: *id004
+621: *id004
+622: *id004
+623: *id004
+624: *id004
+625: *id004
+626: *id004
+627: *id004
+628: *id004
+629: *id004
+630: *id004
+631: *id004
+632: *id004
+633: *id004
+634: *id004
+635: *id004
+636: *id004
+637: *id004
+638: *id004
+639: *id004
+640: *id004
+641: *id004
+642: *id004
+643: *id004
+644: *id004
+645: *id004
+646: *id004
+647: *id004
+648: *id004
+649: *id004
+650: *id004
+651: *id004
+652: *id004
+653: *id004
+654: *id004
+655: *id004
+656: *id004
+657: *id004
+658: *id004
+659: *id004
+660: *id004
+661: *id004
+662: *id004
+663: *id004
+664: *id004
+665: *id004
+666: *id004
+667: *id004
+668: *id004
+669: *id004
+670: *id004
+671: *id004
+672: *id004
+673: *id004
+674: *id004
+675: *id004
+676: *id004
+677: *id004
+678: *id004
+679: *id004
+680: *id004
+681: *id004
+682: *id004
+683: *id004
+684: *id004
+685: *id004
+686: *id004
+687: *id004
+688: *id004
+689: *id004
+690: *id004
+691: *id004
+692: *id004
+693: *id004
+694: *id004
+695: *id004
+696: *id004
+697: *id004
+698: *id004
+699: *id004
+700: *id004
+701: *id004
+702: *id004
+703: *id004
+704: *id004
+705: *id004
+706: *id004
+707: *id004
+708: *id004
+709: *id004
+710: *id004
+711: *id004
+712: *id004
+713: *id004
+714: *id004
+715: *id004
+716: *id004
+717: *id004
+718: *id004
+719: *id004
+720: *id004
+721: *id004
+722: *id004
+723: *id004
+724: *id004
+725: *id004
+726: *id004
+727: *id004
+728: *id004
+729: *id004
+730: *id004
+731: *id004
+732: *id004
+733: *id004
+734: *id004
+735: *id004
+736: *id004
+737: *id004
+738: *id004
+739: *id004
+740: *id004
+741: *id004
+742: *id004
+743: *id004
+744: *id004
+745: *id004
+746: *id004
+747: *id004
+748: *id004
+749: *id004
+750: *id004
+751: *id004
+752: *id004
+753: *id004
+754: *id004
+755: *id004
+756: *id004
+757: *id004
+758: *id004
+759: *id004
+760: *id004
+761: *id004
+762: *id004
+763: *id004
+764: *id004
+765: *id004
+766: *id004
+767: *id004
+768: *id004
+769: *id004
+770: *id004
+771: *id004
+772: *id004
+773: *id004
+774: *id004
+775: *id004
+776: *id004
+777: *id004
+778: *id004
+779: *id004
+780: *id004
+781: *id004
+782: *id004
+783: *id004
+784: *id004
+785: *id004
+786: *id004
+787: *id004
+788: *id004
+789: *id004
+790: *id004
+791: *id004
+792: *id004
+793: *id004
+794: *id004
+795: *id004
+796: *id004
+797: *id004
+798: *id004
+799: *id004
+800: *id004
+801: *id004
+802: *id004
+803: *id004
+804: *id004
+805: *id004
+806: *id004
+807: *id004
+808: *id004
+809: *id004
+810: *id004
+811: *id004
+812: *id004
+813: *id004
+814: *id004
+815: *id004
+816: *id004
+817: *id004
+818: *id004
+819: *id004
+820: *id004
+821: *id004
+822: *id004
+823: *id004
+824: *id004
+825: *id004
+826: *id004
+827: *id004
+828: *id004
+829: *id004
+830: *id004
+831: *id004
+832: *id004
+833: *id004
+834: *id004
+835: *id004
+836: *id004
+837: *id004
+838: *id004
+839: *id004
+840: *id004
+841: *id004
+842: *id004
+843: *id004
+844: *id004
+845: *id004
+846: *id004
+847: *id004
+848: *id004
+849: *id004
+850: *id004
+851: *id004
+852: *id004
+853: *id004
+854: *id004
+855: *id004
+856: *id004
+857: *id004
+858: *id004
+859: *id004
+860: *id004
+861: *id004
+862: *id004
+863: *id004
+864: *id004
+865: *id004
+866: *id004
+867: *id004
+868: *id004
+869: *id004
+870: *id004
+871: *id004
+872: *id004
+873: *id004
+874: *id004
+875: *id004
+876: *id004
+877: *id004
+878: *id004
+879: *id004
+880: *id004
+881: *id004
+882: *id004
+883: *id004
+884: *id004
+885: *id004
+886: *id004
+887: *id004
+888: *id004
+889: *id004
+890: *id004
+891: *id004
+892: *id004
+893: *id004
+894: *id004
+895: *id004
+896: *id004
+897: *id004
+898: *id004
+899: *id004
+900: *id004
+901: *id004
+902: *id004
+903: *id004
+904: *id004
+905: *id004
+906: *id004
+907: *id004
+908: *id004
+909: *id004
+910: *id004
+911: *id004
+912: *id004
+913: *id004
+914: *id004
+915: *id004
+916: *id004
+917: *id004
+918: *id004
+919: *id004
+920: *id004
+921: *id004
+922: *id004
+923: *id004
+924: *id004
+925: *id004
+926: *id004
+927: *id004
+928: *id004
+929: *id004
+930: *id004
+931: *id004
+932: *id004
+933: *id004
+934: *id004
+935: *id004
+936: *id004
+937: *id004
+938: *id004
+939: *id004
+940: *id004
+941: *id004
+942: *id004
+943: *id004
+944: *id004
+945: *id004
+946: *id004
+947: *id004
+948: *id004
+949: *id004
+950: *id004
+951: *id004
+952: *id004
+953: *id004
+954: *id004
+955: *id004
+956: *id004
+957: *id004
+958: *id004
+959: *id004
+960: *id004
+961: *id004
+962: *id004
+963: *id004
+964: *id004
+965: *id004
+966: *id004
+967: *id004
+968: *id004
+969: *id004
+970: *id004
+971: *id004
+972: *id004
+973: *id004
+974: *id004
+975: *id004
+976: *id004
+977: *id004
+978: *id004
+979: *id004
+980: *id004
+981: *id004
+982: *id004
+983: *id004
+984: *id004
+985: *id004
+986: *id004
+987: *id004
+988: *id004
+989: *id004
+990: *id004
+991: *id004
+992: *id004
+993: *id004
+994: *id004
+995: *id004
+996: *id004
+997: *id004
+998: *id004
+999: *id004
+1000:
+  classification: 'null'
+  vessel_group: Other
+1001:
+  classification: Commercial Fishing Vessel
+  vessel_group: Fishing
+1002:
+  classification: Fish Processing Vessel
+  vessel_group: Fishing
+1003:
+  classification: Freight Barge
+  vessel_group: Cargo
+1004:
+  classification: Freight Ship
+  vessel_group: Cargo
+1005:
+  classification: Industrial Vessel
+  vessel_group: Other
+1006:
+  classification: Miscellaneous Vessel
+  vessel_group: Other
+1007:
+  classification: Mobile Offshore Drilling Unit
+  vessel_group: Other
+1008:
+  classification: Non-vessel
+  vessel_group: Other
+1009:
+  classification: Non-vessel
+  vessel_group: Other
+1010:
+  classification: Offshore Supply Vessel
+  vessel_group: Other
+1011:
+  classification: Oil Recovery
+  vessel_group: Other
+1012:
+  classification: Passenger (Inspected)
+  vessel_group: Passenger
+1013:
+  classification: Passenger (Uninspected)
+  vessel_group: Passenger
+1014:
+  classification: Passenger Barge (Inspected)
+  vessel_group: Passenger
+1015:
+  classification: Passenger Barge (Uninspected)
+  vessel_group: Passenger
+1016:
+  classification: Public Freight
+  vessel_group: Cargo
+1017:
+  classification: Public Tankship/Barge
+  vessel_group: Tanker
+1018:
+  classification: Public Vessel Unclassified
+  vessel_group: Other
+1019:
+  classification: Recreational
+  vessel_group: Pleasure Craft/Sailing
+1020:
+  classification: Research Vessel
+  vessel_group: Other
+1021:
+  classification: SAR Aircraft
+  vessel_group: Military
+1022:
+  classification: School Ship
+  vessel_group: Other
+1023:
+  classification: Tank Barge
+  vessel_group: Tug Tow
+1024:
+  classification: Tank Ship
+  vessel_group: Tanker
+1025:
+  classification: Towing Vessel
+  vessel_group: Tug Tow

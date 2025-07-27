@@ -62,8 +62,8 @@ class Baseline(BaseModel):
 class LatLonTransformer(PipelineElement):
     @damast.core.describe("Lat/Lon cyclic transformation")
     @damast.core.input({
-        "lat": {},
-        "lon": {}
+        "lat": {'unit': 'deg'},
+        "lon": {'unit': 'deg'}
     })
     @damast.core.output({
         "{{lat}}_x": {"value_range": MinMax(-1.0, 1.0)},
@@ -103,7 +103,7 @@ def run_experiment(input_files):
         sequence_length=20,
         forecast_length=1,
         group_column="MMSI",
-        training_parameters=TrainingParameters(epochs=2,
+        training_parameters=TrainingParameters(epochs=50,
                                                validation_steps=1)
     )
 

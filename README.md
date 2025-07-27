@@ -23,6 +23,11 @@ Inspect and filter the data for a particular region:
     damast inspect -f parquet/* --filter 'LAT > 18' --filter 'LAT < 20' --filter 'LON < -90' --filter 'LON > -95'
 ```
 
+Update the metadata, here adding unit 'deg' to LAT and LON columns:
+``` 
+    damast annotate --set-unit LAT:deg LON:deg --inplace --apply -f AIS_2024_01_01.parquet
+``` 
+
 Note:
 The data pipeline `str-to-timestamp.damast.ppl` has been added, to convert the
 BaseTimeColumn to datetime format.
@@ -34,6 +39,13 @@ Either use the convert.sh script or
 damast process --pipeline str-to-timestamp.damast.ppl --input-data input.parquet --output-file output.parquet
 ```
 
-#### Vessel Types
+### Meta Data
 
-https://coast.noaa.gov/data/marinecadastre/ais/VesselTypeCodes2018.pdf
+The scripts folder contains 'apply-metadata.sh' which allows to write metadata to 
+each of the parquet files.
+
+The following sources of information have been used:
+
+- Format: https://coast.noaa.gov/data/marinecadastre/ais/data-dictionary.pdf
+- VesselType Codes: https://coast.noaa.gov/data/marinecadastre/ais/VesselTypeCodes2018.pdf
+- FAQ: https://coast.noaa.gov/data/marinecadastre/ais/faq.pdf
